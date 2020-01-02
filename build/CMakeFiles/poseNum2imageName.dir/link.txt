@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3  -O3 -DNDEBUG    -rdynamic CMakeFiles/poseNum2imageName.dir/src/poseNum2imageName.cpp.o  -o ../bin/poseNum2imageName  -L/usr/local/cuda/lib64 
